@@ -3,14 +3,16 @@
 
 
 ## Team Info
+- 22471A05I5 —  Kumbha Chandra Sekar (( [LinkedIn](https://www.linkedin.com/in/chandra-6b0648276?/) )
+_Work Done: Autoencoder-based clustering, label assignment (Rethink/Redesign/Reuse), results analysis.
+
 - 22471A05J3 — Shaik Rasheed ( [LinkedIn](https://www.linkedin.com/in/shaik-rasheed-222274276/) )
 _Work Done: Data preprocessing, feature engineering, model implementation (MLP classifiers), training & evaluation, SHAP explainability, GitHub documentation,Literature survey, model comparison, report writing, result interpretation.
 
 - 22471A05K5 — Vattikuti Hemanth ( [LinkedIn](https://www.linkedin.com/in/hemanth-vattikuti-65a11a341?/) )
 _Work Done: Dataset collection, SDG indicator integration, exploratory data analysis (EDA), visualization.
 
-- 22471A05I5 —  Kumbha Chandra Sekar (( [LinkedIn](https://www.linkedin.com/in/chandra-6b0648276?/) )
-_Work Done: Autoencoder-based clustering, label assignment (Rethink/Redesign/Reuse), results analysis.
+
 
 
 
